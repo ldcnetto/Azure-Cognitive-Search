@@ -34,11 +34,9 @@ Os resultados das pesquisas podem ser salvos em um **Armazenamento de Conhecimen
 - **Melhoria na tomada de decisão**: dados enriquecidos fornecem insights mais profundos e estratégicos.
 - **Centralização e reutilização dos resultados**: informações organizadas facilitam o uso em diferentes aplicações sem necessidade de retrabalho.
 
-## Aplicações e Ferramentas que se Beneficiam
-- **Chatbots e Assistentes Virtuais**: Melhoram a experiência do usuário com respostas rápidas e relevantes.
+## Exemplos de Aplicações e Ferramentas que se Beneficiam
 - **Sistemas de Business Intelligence (BI)**: Dashboards dinâmicos com dados sempre atualizados.
-- **Plataformas de E-commerce**: Buscas mais personalizadas, recomendação de produtos e otimização da navegação.
-- **Soluções de Compliance e Monitoramento**: Análise eficiente de grandes volumes de documentos para detecção de padrões ou anomalias.
+- **Assistentes Virtuais**: Melhoram a experiência do usuário com respostas rápidas e relevantes.
 
 ## Aprendizados Adquiridos
 Durante a implementação do Azure Cognitive Search, algumas lições importantes foram tiradas:
